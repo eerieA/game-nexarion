@@ -20,20 +20,20 @@ Only listing some active ones. All are temporary names.
 
 - Humans  
     Descendants of old earth humans that found colonies near the Solar system, with traits like horns, bio-luminescent veins, and neural crests inherited as side effects of long-term genetic optimization.
-- Quorix  
+- Hydrune  
     Descendants of old earth humans who re-engineered themselves to adapt to their water-rich planets after the collapse.
 - K'tharr  
     Natrually evolved "lizard" people.
-- Solari  
+- Heliox  
     Naturally evolved "energy ball" people from a radiation-dense stellar cluster.
-- Synthari  
+- Archelect  
     Synthetic folks that are not too different thant those we all know and love in various space operas.
-- Sylani  
+- Xyleth  
     Natrually evolved "plant" folks.
-- Tarnyx  
+- Veydrin  
     Biologically unstable creatures composed of semi-autonomous sentient matter, or "sporeling" people though they also look a bit like mini nebulas.
 
-**Sovereignties**:
+**Sovereignties (factions)**:
 
 Only listing some active ones. All are temporary names.
 
@@ -43,7 +43,7 @@ Only listing some active ones. All are temporary names.
 - FES (The Federation of Enlightened Systems)  
     Loose alliance, like modern Europe / ancient Greece.
 
-- The Obsidian Dominion  
+- The Myrwarden Commonwealth  
     Ancient aristocracy with divine / worshipped monarchy and rigid caste structure, a bit like ancient Egypt or China.
 
 - The Vanta Pact  
@@ -52,14 +52,21 @@ Only listing some active ones. All are temporary names.
 - The Cosma Chorus  
     Decentralized, knowledge-sharing coalition of planetary enclaves.
 
+    Temporary emblems, made using variants of SDXL. Will be replaced with manually designed ones some day if the project continues, or removed if not.
+
+    | | | | | |
+    | -------- | ------- | ------- | ------- | ------- |
+    |Ordis Lexis| FES | Myrwarden C. | Vanta Pact | Cosma Chorus  |
+    |<img alt="Ordis Lexis emblem" src="./assets/fac_emblem05.png" width="80">|<img alt="FES emblem" src="./assets/fac_emblem04.png" width="80">|<img alt="Myrwarden Commonwealth emblem" src="./assets/fac_emblem01.png" width="80">|<img alt="Vanta Pact emblem" src="./assets/fac_emblem03.png" width="80">|<img alt="Cosma Chorus emblem" src="./assets/fac_emblem02.png" width="80">
+
 **Geopolitical conflicts**:
 
 Temporary.
 
 | | | |
 | -------- | ------- | ------- |
-| Obsidian Dominion  |  vs  | FES + Cosma Chorus |
-| Ordis Lexis        |  vs  | Vanta Pact |
-| Some humans (FES human-heavy states)  |  vs  | Syntharii (Cosma Chorus) |
+| Myrwarden Commonwealth    |  vs  | FES + Cosma Chorus |
+| Ordis Lexis               |  vs  | Vanta Pact |
+| Some humans (FES human-heavy states)  |  vs  | Archelects (Cosma Chorus) |
 | Some of FES (authoritarian states)  |  vs  | big warlords of the Vanta Pact |
-| Most other races  |  distrust / disdain  | Tarnyx race |
+| Most other races  |  distrust / disdain  | the Veydrin race |

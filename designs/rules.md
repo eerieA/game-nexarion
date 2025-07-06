@@ -1,8 +1,26 @@
 # Rules
 
+<!-- TOC -->
+
+- [Rules](#rules)
+    - [Values](#values)
+        - [Port safety values](#port-safety-values)
+        - [Goods base values](#goods-base-values)
+        - [Rarity values](#rarity-values)
+        - [Distance Matrix](#distance-matrix)
+    - [Equations](#equations)
+        - [Prices before legality](#prices-before-legality)
+        - [Prices with legality](#prices-with-legality)
+        - [Smuggle difficulty score](#smuggle-difficulty-score)
+        - [Smuggle check](#smuggle-check)
+        - [Consequences of smuggle failures](#consequences-of-smuggle-failures)
+        - [Sailing](#sailing)
+
+<!-- /TOC -->
+
 ## Values
 
-**Port safety values**
+### Port safety values
 
 | | |
 | :--- | :--- |
@@ -11,7 +29,7 @@
 | Mid | 2 |
 | High | 3 |
 
-**Goods base values**
+### Goods base values
 
 | | |
 | :--- | :--- |
@@ -20,7 +38,7 @@
 | Expensive | 75 |
 | Very expensive | 150 |
 
-**Rarity values**
+### Rarity values
 
 | Rarity mul (for legal) | | Rarity value (for smuggle) | |
 | :--- | :--- | :--- | :--- |
@@ -30,17 +48,19 @@
 | Very rare | x8 | Very rare | 3 |
 
 
-**Distance Matrix (in Distance Units, DU)**
+### Distance Matrix
+
+In Distance Units, DU for short.
 
 |      | Novus Capitolium | Harmonious Spire | Echoing Gallery | The Mire's Gaze | The Gilded Hand | The Edge Heap | The Grand Nexus |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Novus Capitolium** | - | 12 | 14 | 20 | 22 | 25 | 8 |
-| **Harmonious Spire** | 12 | - | 5 | 18 | 20 | 23 | 10 |
-| **Echoing Gallery** | 14 | 5 | - | 21 | 23 | 26 | 12 |
-| **The Mire's Gaze** | 20 | 18 | 21 | - | 15 | 18 | 24 |
-| **The Gilded Hand** | 22 | 20 | 23 | 15 | - | 6 | 28 |
-| **The Edge Heap** | 25 | 23 | 26 | 18 | 6 | - | 30 |
-| **The Grand Nexus** | 8 | 10 | 12 | 24 | 28 | 30 | - |
+| **Harmonious Spire** | 12 | - | 2 | 18 | 20 | 23 | 10 |
+| **Echoing Gallery** | 14 | 2 | - | 16 | 22 | 25 | 12 |
+| **The Mire's Gaze** | 20 | 18 | 16 | - | 32 | 29 | 28 |
+| **The Gilded Hand** | 22 | 20 | 25 | 32 | - | 3 | 26 |
+| **The Edge Heap** | 25 | 23 | 25 | 29 | 3 | - | 29 |
+| **The Grand Nexus** | 8 | 10 | 12 | 28 | 26 | 29 | - |
 
 ## Equations
 

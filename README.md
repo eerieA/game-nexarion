@@ -48,18 +48,18 @@ Only listing some active ones. All are temporary names.
 - The Myrwarden Commonwealth  
     Ancient aristocracy with divine / worshipped monarchy and rigid caste structure, a bit like ancient Egypt or China.
 
-- The Abyssal Syndic 
+- The Abyssal Syndic  
     Mercenary alliance and corporate syndicate with decentralized power nodes.
 
 - The Cosma Chorus  
     Decentralized, knowledge-sharing coalition of planetary enclaves.
 
-    Temporary emblems, made using variants of SDXL. Will be replaced with manually designed ones some day if the project continues, or removed if not.
+Temporary emblems, made using variants of SDXL. Will be replaced with manually designed ones some day if the project continues, or removed if not.
 
-    | | | | | |
-    | -------- | ------- | ------- | ------- | ------- |
-    |Ordis Lexis| FES | Myrwarden C. | Abyssal Syndic | Cosma Chorus  |
-    |<img alt="Ordis Lexis emblem" src="./assets/fac_emblem05.png" width="80">|<img alt="FES emblem" src="./assets/fac_emblem04.png" width="80">|<img alt="Myrwarden Commonwealth emblem" src="./assets/fac_emblem01.png" width="80">|<img alt="Abyssal Syndic emblem" src="./assets/fac_emblem03.png" width="80">|<img alt="Cosma Chorus emblem" src="./assets/fac_emblem02.png" width="80">
+| | | | | |
+| -------- | ------- | ------- | ------- | ------- |
+|Ordis Lexis| FES | Myrwarden C. | Abyssal Syndic | Cosma Chorus  |
+|<img alt="Ordis Lexis emblem" src="./assets/fac_emblem05.png" width="80">|<img alt="FES emblem" src="./assets/fac_emblem04.png" width="80">|<img alt="Myrwarden Commonwealth emblem" src="./assets/fac_emblem01.png" width="80">|<img alt="Abyssal Syndic emblem" src="./assets/fac_emblem03.png" width="80">|<img alt="Cosma Chorus emblem" src="./assets/fac_emblem02.png" width="80">
 
 **Geopolitical conflicts**:
 

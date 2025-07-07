@@ -48,7 +48,7 @@ Only listing some active ones. All are temporary names.
 - The Myrwarden Commonwealth  
     Ancient aristocracy with divine / worshipped monarchy and rigid caste structure, a bit like ancient Egypt or China.
 
-- The Vanta Pact  
+- The Abyssal Syndic 
     Mercenary alliance and corporate syndicate with decentralized power nodes.
 
 - The Cosma Chorus  
@@ -58,8 +58,8 @@ Only listing some active ones. All are temporary names.
 
     | | | | | |
     | -------- | ------- | ------- | ------- | ------- |
-    |Ordis Lexis| FES | Myrwarden C. | Vanta Pact | Cosma Chorus  |
-    |<img alt="Ordis Lexis emblem" src="./assets/fac_emblem05.png" width="80">|<img alt="FES emblem" src="./assets/fac_emblem04.png" width="80">|<img alt="Myrwarden Commonwealth emblem" src="./assets/fac_emblem01.png" width="80">|<img alt="Vanta Pact emblem" src="./assets/fac_emblem03.png" width="80">|<img alt="Cosma Chorus emblem" src="./assets/fac_emblem02.png" width="80">
+    |Ordis Lexis| FES | Myrwarden C. | Abyssal Syndic | Cosma Chorus  |
+    |<img alt="Ordis Lexis emblem" src="./assets/fac_emblem05.png" width="80">|<img alt="FES emblem" src="./assets/fac_emblem04.png" width="80">|<img alt="Myrwarden Commonwealth emblem" src="./assets/fac_emblem01.png" width="80">|<img alt="Abyssal Syndic emblem" src="./assets/fac_emblem03.png" width="80">|<img alt="Cosma Chorus emblem" src="./assets/fac_emblem02.png" width="80">
 
 **Geopolitical conflicts**:
 
@@ -68,7 +68,7 @@ Temporary.
 | | | |
 | -------- | ------- | ------- |
 | Myrwarden Commonwealth    |  vs  | FES + Cosma Chorus |
-| Ordis Lexis               |  vs  | Vanta Pact |
+| Ordis Lexis               |  vs  | Abyssal Syndic |
 | Some humans (FES human-heavy states)  |  vs  | Archelects (Cosma Chorus) |
-| Some of FES (authoritarian states)  |  vs  | big warlords of the Vanta Pact |
+| Some of FES (authoritarian states)  |  vs  | big warlords of The Abyssal Syndic |
 | Most other races  |  distrust / disdain  | the Veydrin race |

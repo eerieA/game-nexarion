@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9" pages="4">
   <diagram name="Factions" id="-R4BllzP6DVIOZKnAPeu">
-    <mxGraphModel dx="1680" dy="1054" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1092" dy="685" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,8 +19,8 @@
         <mxCell id="SikLe_uOMy30VilslOoQ-9" value="&lt;p&gt;&lt;strong&gt;The Cosma Chorus&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Type:&lt;/strong&gt; Decentralized, knowledge-sharing coalition of planetary enclaves (quasi-scientific anarchists)&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Race Makeup:&lt;/strong&gt; Primarily &lt;strong&gt;Archelect&lt;/strong&gt; and &lt;strong&gt;Xyleth&lt;/strong&gt;, some &lt;strong&gt;Humans, &lt;/strong&gt;a few other races too&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Flair:&lt;/strong&gt; Transparent culture with consensus governance and post-biological spirituality&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Reputation:&lt;/strong&gt; Pioneers in xenotech, biotech, and forgotten pre-collapse science. They prioritize intellectual advancement, artistic expression, and diplomacy. While not as militarily powerful as others, they are highly resourceful and adept at forming alliances.&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;fontSize=15;verticalAlign=top;labelBackgroundColor=none;spacing=6;spacingTop=-10;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1230" y="30" width="270" height="430" as="geometry" />
         </mxCell>
-        <mxCell id="SikLe_uOMy30VilslOoQ-10" value="&lt;p&gt;&lt;b&gt;Name of the game candidates&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;Pulsing Rifts&lt;/p&gt;&lt;p&gt;Echoes Across&lt;/p&gt;&lt;p&gt;Starwakers&lt;/p&gt;&lt;p&gt;Nexarion (nexus + orion)&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="30" y="650" width="238" height="200" as="geometry" />
+        <mxCell id="SikLe_uOMy30VilslOoQ-10" value="&lt;p&gt;&lt;b&gt;Name of the game candidates&lt;/b&gt;:&lt;/p&gt;&lt;p&gt;Pulsing Rifts&lt;/p&gt;&lt;p&gt;Starwakers&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;To Wake a Star&lt;br&gt;&lt;/span&gt;Starwake&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Nexarion (nexus + orion)&lt;/p&gt;&lt;p&gt;Space Between&lt;/p&gt;&lt;p&gt;The Quiet Craves&lt;/p&gt;&lt;p&gt;Dust Remembers&lt;/p&gt;&lt;p&gt;The Faultline&lt;/p&gt;&lt;p&gt;Embers at Rest&lt;/p&gt;&lt;p&gt;For When it Sunders&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;As It Shall Sunder&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Of Glass and Graphene&lt;br&gt;Of Fugue and Fluorine&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Of Fate and Fluorine&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="30" y="418" width="252" height="453" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

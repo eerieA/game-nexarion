@@ -4,17 +4,31 @@ This is a repo hosting a set of sort-of design documents for an experimental ind
 
 Motivated by the disappointing PC remaster / port of Uncharted Waters IV.
 
+<!-- TOC -->
+
+- [Nexarion (temporary name)](#nexarion-temporary-name)
+    - [Noteworthy design documents](#noteworthy-design-documents)
+    - [A peek at the narrative](#a-peek-at-the-narrative)
+- [License](#license)
+
+<!-- /TOC -->
+
 ## Noteworthy design documents
 
 Trade System Balancing Sheet: [Google Sheet](https://docs.google.com/spreadsheets/d/1UFZz6B97ojAMlQY8WkVzC41KoKGSq5iycUdhuf7L4mo/edit?usp=sharing).
 
-General ideas of designs: [general ideas.md](./designs/general%20ideas.md), following the Design Lenses method.
+General ideas of designs: [general ideas.md](./designs/general%20ideas.md).  
+<span style="display:inline-block; margin-left:2em; margin-top: 0.5em; padding: 0.5em 2em; border-left: solid 2px #e0e0e0;">
+These ideas mainly follow methodologies in these 2 books:  
+[*The Art of Game Design: A Book of Lenses*](https://www.amazon.com/Art-Game-Design-Lenses-Third-dp-1138632058/dp/1138632058)  
+[*Designing Games: A Guide to Engineering Experiences*](https://www.amazon.ca/Designing-Games-Guide-Engineering-Experiences/dp/1449337937).
+</span>
 
 ## A peek at the narrative
 
 The narrative is a space opera. The world is a fairly explored universe. There are a few mutually known races, some sovereignties and a large amount of established settlements. There are more "inland" settlements on planets that are not natrually well equipped for trading hubs, and "ports" that see heavy commercial traffic everyday. The story of this game will happen mostly in "port" settlements.
 
-More details in [the narrative texts.drawio](./designs/narrative%20texts.drawio) diagram.
+More details in [the narrative texts.drawio](./narratives/narrative%20world.drawio) diagram.
 
 **Races**:
 
@@ -72,3 +86,16 @@ Temporary.
 | Some humans (FES human-heavy states)  |  vs  | Archelects (Cosma Chorus) |
 | Some of FES (authoritarian states)  |  vs  | big warlords of The Abyssal Syndic |
 | Most other races  |  distrust / disdain  | the Veydrin race |
+
+# License
+
+All original narrative content, worldbuilding documents, and system/game design materials in this repository are licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+This means you are free to:
+- Share: copy and redistribute the material in any medium or format
+- Adapt: remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution**: You must give appropriate credit, provide a link to this repository or the original source, and indicate if changes were made.
+
+> If any code is added to the repository in the future, it will be separately licensed under the MIT License, unless otherwise stated.

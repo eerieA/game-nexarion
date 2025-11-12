@@ -68,7 +68,7 @@ Only listing some active ones. All are temporary names.
 - The Cosma Chorus  
     Decentralized, knowledge-sharing coalition of planetary enclaves.
 
-Temporary emblems, made using variants of SDXL. Will be replaced with manually designed ones some day if the project continues, or removed if not.
+Temporary emblems. They are all sketches for now.
 
 | | | | | |
 | -------- | ------- | ------- | ------- | ------- |
